@@ -88,11 +88,15 @@ This makes it possible to calculate rating metrics from available individual rev
 
 ### 4.2. Removal of `reviews.review_text`
 
-The raw `reviews` table included a column containing review text.
+The raw `reviews` table included a column containing customer review text.
 
-Because text and sentiment analysis are outside the scope of this project, `review_text` was excluded from the processed dataset.
+An assessment of 15,000 reviews identified only 10 distinct, repeatedly used comments. Positive and negative comments appeared across all order statuses, without a clear pattern explaining cancellations or returns.
 
-**Result:** All 15,000 review records were retained. The numeric `reviews.rating` field is used for rating analysis.
+Review coverage was also incomplete: 56.66% of cancelled orders and 55.48% of returned orders had at least one review.
+
+**Decision:** Remove reviews.review_text from the processed dataset due to the limited analytical value of the available comments.
+
+**Result:** All 15,000 review records were retained. The numeric `reviews.rating` field remains available for rating analysis, and the original review texts remain in the raw dataset.
 
 ## 5. Data Quality and Consistency Validation
 
