@@ -1,0 +1,33 @@
+{
+  "aggregateSha256": "623d1a299d077674ddb2a07741590c4db4729b4326e625e27fa435fcf658fd10",
+  "analyticsSha256": "5f99d15c0ff1d247b432c1c735100c02ebefa4bf1e2bf3dc46b53c4b9a6de1d5",
+  "sources": {
+    "data/processed/users.csv": "e4de1dd4b33d581e42a3fcd2f3987c27005951949e92b7bc822f3d999e4bb1ec",
+    "data/processed/products.csv": "9f828d67209c33e928c9d5a1f7bc66b7e81be17f175d8189db66b46bfd250a90",
+    "data/processed/orders.csv": "5ada18a347b68dc5f8928ca9f374ee6e33a37017b03989a4edd14b6d77ab444b",
+    "data/processed/order_items.csv": "084f2548f2c6e98a065e2427311ee6dc73ba29395fd723975d171c413cdf6680",
+    "data/processed/reviews.csv": "8ced1940271b0914523774b411e63462ddc66220b64a5175e029bfa97fd0b324",
+    "sql/01_create_schema.sql": "08da140e0666fd1da9cd624529eda53d92821daf51467afdee783b20564daf6a",
+    "sql/02_data_validation.sql": "7410558cecea4ac9e9c42d8734cf9848769c459d340903d628f6c851a1d03ed4",
+    "sql/03_business_analysis.sql": "b24397e335ab644c880232a4e1c9300a1dccc028dae6183451f1a754622f8498",
+    "data/data_dictionary.md": "7d8ce2f0ebd5702dcca60a1f7e3ae06645d8ccd4b95934d43e12ba5f1b9c94ef"
+  },
+  "sqlMapping": {
+    "kpis": [
+      3,
+      5
+    ],
+    "monthly": [
+      4
+    ],
+    "categories": [
+      6
+    ],
+    "brands": [
+      7
+    ],
+    "topProducts": [
+      8
+    ]
+  }
+}

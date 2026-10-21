@@ -1,0 +1,64 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+.env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# JavaScript dependencies, caches, builds and local deployment metadata
+node_modules/
+.pnpm-store/
+.npm/
+.vite/
+dist/
+build/
+coverage/
+.vercel/
+.standalone-*/
+
+# Local credentials and connection settings
+.env
+.env.*
+!.env.example
+!.env.template
+.aws/
+.azure/
+.ssh/
+.my.cnf
+.mylogin.cnf
+credentials.json
+credentials.local.*
+secrets.json
+secrets.local.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Editor, agent, OS and temporary files
+.vscode/
+.idea/
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+~$*
+
+# Power BI local caches; preserve the PBIX report itself
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Keep CSV datasets, notebooks, SQL, PBIX and dashboard/src/data/*.json.

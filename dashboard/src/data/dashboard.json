@@ -1,0 +1,5773 @@
+{
+  "coverage": {
+    "first_order_date": "2024-01-01 00:14:17.631198",
+    "last_order_date": "2025-11-14 23:17:25.548939"
+  },
+  "kpis": {
+    "completed_orders": 4021,
+    "completed_revenue": 2419712.58,
+    "completed_aov": 601.77,
+    "customers_with_completed_orders": 3320,
+    "repeat_customers": 612,
+    "repeat_customer_rate_pct": 18.43
+  },
+  "monthly": [
+    {
+      "order_month": "2024-01",
+      "completed_orders": 167,
+      "completed_revenue": 95429.66,
+      "completed_aov": 571.44
+    },
+    {
+      "order_month": "2024-02",
+      "completed_orders": 147,
+      "completed_revenue": 73319.35,
+      "completed_aov": 498.77
+    },
+    {
+      "order_month": "2024-03",
+      "completed_orders": 213,
+      "completed_revenue": 134569.53,
+      "completed_aov": 631.78
+    },
+    {
+      "order_month": "2024-04",
+      "completed_orders": 190,
+      "completed_revenue": 103610.56,
+      "completed_aov": 545.32
+    },
+    {
+      "order_month": "2024-05",
+      "completed_orders": 169,
+      "completed_revenue": 115249.52,
+      "completed_aov": 681.95
+    },
+    {
+      "order_month": "2024-06",
+      "completed_orders": 191,
+      "completed_revenue": 126550.29,
+      "completed_aov": 662.57
+    },
+    {
+      "order_month": "2024-07",
+      "completed_orders": 186,
+      "completed_revenue": 108635.16,
+      "completed_aov": 584.06
+    },
+    {
+      "order_month": "2024-08",
+      "completed_orders": 190,
+      "completed_revenue": 91515.76,
+      "completed_aov": 481.66
+    },
+    {
+      "order_month": "2024-09",
+      "completed_orders": 168,
+      "completed_revenue": 96088.95,
+      "completed_aov": 571.96
+    },
+    {
+      "order_month": "2024-10",
+      "completed_orders": 185,
+      "completed_revenue": 113797.42,
+      "completed_aov": 615.12
+    },
+    {
+      "order_month": "2024-11",
+      "completed_orders": 164,
+      "completed_revenue": 98829.66,
+      "completed_aov": 602.62
+    },
+    {
+      "order_month": "2024-12",
+      "completed_orders": 165,
+      "completed_revenue": 109147.67,
+      "completed_aov": 661.5
+    },
+    {
+      "order_month": "2025-01",
+      "completed_orders": 167,
+      "completed_revenue": 84532.56,
+      "completed_aov": 506.18
+    },
+    {
+      "order_month": "2025-02",
+      "completed_orders": 170,
+      "completed_revenue": 109610.71,
+      "completed_aov": 644.77
+    },
+    {
+      "order_month": "2025-03",
+      "completed_orders": 165,
+      "completed_revenue": 81746.13,
+      "completed_aov": 495.43
+    },
+    {
+      "order_month": "2025-04",
+      "completed_orders": 181,
+      "completed_revenue": 114765.65,
+      "completed_aov": 634.06
+    },
+    {
+      "order_month": "2025-05",
+      "completed_orders": 187,
+      "completed_revenue": 126909.41,
+      "completed_aov": 678.66
+    },
+    {
+      "order_month": "2025-06",
+      "completed_orders": 195,
+      "completed_revenue": 116163.49,
+      "completed_aov": 595.71
+    },
+    {
+      "order_month": "2025-07",
+      "completed_orders": 172,
+      "completed_revenue": 111926.51,
+      "completed_aov": 650.74
+    },
+    {
+      "order_month": "2025-08",
+      "completed_orders": 192,
+      "completed_revenue": 109437.47,
+      "completed_aov": 569.99
+    },
+    {
+      "order_month": "2025-09",
+      "completed_orders": 181,
+      "completed_revenue": 115742.79,
+      "completed_aov": 639.46
+    },
+    {
+      "order_month": "2025-10",
+      "completed_orders": 185,
+      "completed_revenue": 111493.71,
+      "completed_aov": 602.67
+    },
+    {
+      "order_month": "2025-11",
+      "completed_orders": 91,
+      "completed_revenue": 70640.62,
+      "completed_aov": 776.27
+    }
+  ],
+  "categories": [
+    {
+      "category": "Electronics",
+      "items_sold": 1164,
+      "completed_orders": 757,
+      "completed_revenue": 966339.61
+    },
+    {
+      "category": "Automotive",
+      "items_sold": 1264,
+      "completed_orders": 804,
+      "completed_revenue": 544953.38
+    },
+    {
+      "category": "Home & Kitchen",
+      "items_sold": 1239,
+      "completed_orders": 801,
+      "completed_revenue": 236094.67
+    },
+    {
+      "category": "Sports",
+      "items_sold": 1138,
+      "completed_orders": 764,
+      "completed_revenue": 193365.43
+    },
+    {
+      "category": "Clothing",
+      "items_sold": 1284,
+      "completed_orders": 818,
+      "completed_revenue": 143476.51
+    },
+    {
+      "category": "Beauty",
+      "items_sold": 1294,
+      "completed_orders": 857,
+      "completed_revenue": 114908.4
+    },
+    {
+      "category": "Toys",
+      "items_sold": 1324,
+      "completed_orders": 844,
+      "completed_revenue": 81246.92
+    },
+    {
+      "category": "Pet Supplies",
+      "items_sold": 1329,
+      "completed_orders": 832,
+      "completed_revenue": 69536.28
+    },
+    {
+      "category": "Books",
+      "items_sold": 1164,
+      "completed_orders": 769,
+      "completed_revenue": 53178.14
+    },
+    {
+      "category": "Groceries",
+      "items_sold": 1026,
+      "completed_orders": 684,
+      "completed_revenue": 16613.24
+    }
+  ],
+  "brands": [
+    {
+      "brand": "Willow",
+      "items_sold": 999,
+      "completed_orders": 675,
+      "completed_revenue": 265855
+    },
+    {
+      "brand": "Nimbus",
+      "items_sold": 1065,
+      "completed_orders": 681,
+      "completed_revenue": 224339.21
+    },
+    {
+      "brand": "Orion",
+      "items_sold": 977,
+      "completed_orders": 645,
+      "completed_revenue": 218155.45
+    },
+    {
+      "brand": "Zenith",
+      "items_sold": 1255,
+      "completed_orders": 810,
+      "completed_revenue": 215620.97
+    },
+    {
+      "brand": "Acme",
+      "items_sold": 973,
+      "completed_orders": 652,
+      "completed_revenue": 206707.5
+    },
+    {
+      "brand": "GreenLeaf",
+      "items_sold": 1095,
+      "completed_orders": 702,
+      "completed_revenue": 204295.76
+    },
+    {
+      "brand": "Harbor",
+      "items_sold": 1126,
+      "completed_orders": 728,
+      "completed_revenue": 196907.83
+    },
+    {
+      "brand": "Astra",
+      "items_sold": 996,
+      "completed_orders": 670,
+      "completed_revenue": 196155.58
+    },
+    {
+      "brand": "Pulse",
+      "items_sold": 827,
+      "completed_orders": 567,
+      "completed_revenue": 180977.97
+    },
+    {
+      "brand": "Everest",
+      "items_sold": 938,
+      "completed_orders": 612,
+      "completed_revenue": 174339.06
+    },
+    {
+      "brand": "NeoTech",
+      "items_sold": 1064,
+      "completed_orders": 705,
+      "completed_revenue": 168197.38
+    },
+    {
+      "brand": "Solace",
+      "items_sold": 911,
+      "completed_orders": 594,
+      "completed_revenue": 168160.87
+    }
+  ],
+  "topProducts": [
+    {
+      "product_id": "P001527",
+      "product_name": "Willow Result",
+      "category": "Electronics",
+      "brand": "Willow",
+      "items_sold": 9,
+      "completed_orders": 6,
+      "completed_revenue": 18318.78,
+      "revenue_rank": 1
+    },
+    {
+      "product_id": "P001892",
+      "product_name": "Willow Need",
+      "category": "Electronics",
+      "brand": "Willow",
+      "items_sold": 12,
+      "completed_orders": 8,
+      "completed_revenue": 15455.4,
+      "revenue_rank": 2
+    },
+    {
+      "product_id": "P001143",
+      "product_name": "Orion Number",
+      "category": "Electronics",
+      "brand": "Orion",
+      "items_sold": 11,
+      "completed_orders": 7,
+      "completed_revenue": 14723.83,
+      "revenue_rank": 3
+    },
+    {
+      "product_id": "P000555",
+      "product_name": "Acme Of",
+      "category": "Electronics",
+      "brand": "Acme",
+      "items_sold": 10,
+      "completed_orders": 7,
+      "completed_revenue": 14076.1,
+      "revenue_rank": 4
+    },
+    {
+      "product_id": "P000731",
+      "product_name": "Pulse Treat",
+      "category": "Electronics",
+      "brand": "Pulse",
+      "items_sold": 11,
+      "completed_orders": 8,
+      "completed_revenue": 13600.62,
+      "revenue_rank": 5
+    },
+    {
+      "product_id": "P001113",
+      "product_name": "Pulse Interesting",
+      "category": "Electronics",
+      "brand": "Pulse",
+      "items_sold": 8,
+      "completed_orders": 5,
+      "completed_revenue": 13304.96,
+      "revenue_rank": 6
+    },
+    {
+      "product_id": "P001012",
+      "product_name": "Acme Him",
+      "category": "Electronics",
+      "brand": "Acme",
+      "items_sold": 10,
+      "completed_orders": 5,
+      "completed_revenue": 12902,
+      "revenue_rank": 7
+    },
+    {
+      "product_id": "P001183",
+      "product_name": "Nimbus Word",
+      "category": "Electronics",
+      "brand": "Nimbus",
+      "items_sold": 7,
+      "completed_orders": 6,
+      "completed_revenue": 12847.24,
+      "revenue_rank": 8
+    },
+    {
+      "product_id": "P001081",
+      "product_name": "Astra Act",
+      "category": "Electronics",
+      "brand": "Astra",
+      "items_sold": 13,
+      "completed_orders": 10,
+      "completed_revenue": 12809.55,
+      "revenue_rank": 9
+    },
+    {
+      "product_id": "P000354",
+      "product_name": "Pulse Letter",
+      "category": "Electronics",
+      "brand": "Pulse",
+      "items_sold": 9,
+      "completed_orders": 6,
+      "completed_revenue": 12486.51,
+      "revenue_rank": 10
+    }
+  ],
+  "validation": {
+    "rowCounts": {
+      "users": 10000,
+      "products": 2000,
+      "orders": 20000,
+      "order_items": 43525,
+      "reviews": 15000
+    },
+    "integrity": "passed",
+    "chronology": {
+      "ordersBeforeSignup": 9930,
+      "reviewsBeforeOrder": 7455
+    }
+  },
+  "statusDistribution": [
+    {
+      "label": "completed",
+      "count": 4021,
+      "percentage": 20.11
+    },
+    {
+      "label": "cancelled",
+      "count": 3920,
+      "percentage": 19.6
+    },
+    {
+      "label": "returned",
+      "count": 4066,
+      "percentage": 20.33
+    },
+    {
+      "label": "shipped",
+      "count": 4113,
+      "percentage": 20.57
+    },
+    {
+      "label": "processing",
+      "count": 3880,
+      "percentage": 19.4
+    }
+  ],
+  "customerFrequency": [
+    {
+      "label": "1",
+      "count": 2708,
+      "percentage": 81.57
+    },
+    {
+      "label": "2",
+      "count": 527,
+      "percentage": 15.87
+    },
+    {
+      "label": "3",
+      "count": 81,
+      "percentage": 2.44
+    },
+    {
+      "label": "4+",
+      "count": 4,
+      "percentage": 0.12
+    }
+  ],
+  "customerGender": [
+    {
+      "label": "Female",
+      "count": 1141,
+      "percentage": 34.37
+    },
+    {
+      "label": "Male",
+      "count": 1074,
+      "percentage": 32.35
+    },
+    {
+      "label": "Other",
+      "count": 1105,
+      "percentage": 33.28
+    }
+  ],
+  "ratingDistribution": [
+    {
+      "label": "1",
+      "count": 594,
+      "percentage": 3.96
+    },
+    {
+      "label": "2",
+      "count": 2084,
+      "percentage": 13.89
+    },
+    {
+      "label": "3",
+      "count": 4289,
+      "percentage": 28.59
+    },
+    {
+      "label": "4",
+      "count": 4624,
+      "percentage": 30.83
+    },
+    {
+      "label": "5",
+      "count": 3409,
+      "percentage": 22.73
+    }
+  ],
+  "periods": {
+    "all-1": {
+      "coverage": {
+        "first_order_date": "2024-01-01 00:14:17.631198",
+        "last_order_date": "2025-03-31 21:25:36.620096"
+      },
+      "kpis": {
+        "completed_orders": 1029,
+        "completed_revenue": 579207.94,
+        "completed_aov": 562.88,
+        "customers_with_completed_orders": 981,
+        "repeat_customers": 48,
+        "repeat_customer_rate_pct": 4.89
+      },
+      "monthly": [
+        {
+          "order_month": "2024-01",
+          "completed_orders": 167,
+          "completed_revenue": 95429.66,
+          "completed_aov": 571.44
+        },
+        {
+          "order_month": "2024-02",
+          "completed_orders": 147,
+          "completed_revenue": 73319.35,
+          "completed_aov": 498.77
+        },
+        {
+          "order_month": "2024-03",
+          "completed_orders": 213,
+          "completed_revenue": 134569.53,
+          "completed_aov": 631.78
+        },
+        {
+          "order_month": "2025-01",
+          "completed_orders": 167,
+          "completed_revenue": 84532.56,
+          "completed_aov": 506.18
+        },
+        {
+          "order_month": "2025-02",
+          "completed_orders": 170,
+          "completed_revenue": 109610.71,
+          "completed_aov": 644.77
+        },
+        {
+          "order_month": "2025-03",
+          "completed_orders": 165,
+          "completed_revenue": 81746.13,
+          "completed_aov": 495.43
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 272,
+          "completed_orders": 177,
+          "completed_revenue": 223795.01
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 304,
+          "completed_orders": 195,
+          "completed_revenue": 121842.39
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 313,
+          "completed_orders": 208,
+          "completed_revenue": 61556.62
+        },
+        {
+          "category": "Sports",
+          "items_sold": 282,
+          "completed_orders": 196,
+          "completed_revenue": 48623.46
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 328,
+          "completed_orders": 204,
+          "completed_revenue": 37027.27
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 312,
+          "completed_orders": 211,
+          "completed_revenue": 28609.97
+        },
+        {
+          "category": "Toys",
+          "items_sold": 362,
+          "completed_orders": 229,
+          "completed_revenue": 22108.2
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 336,
+          "completed_orders": 214,
+          "completed_revenue": 18121.99
+        },
+        {
+          "category": "Books",
+          "items_sold": 296,
+          "completed_orders": 198,
+          "completed_revenue": 13230.45
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 258,
+          "completed_orders": 171,
+          "completed_revenue": 4292.58
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Willow",
+          "items_sold": 292,
+          "completed_orders": 195,
+          "completed_revenue": 82621.31
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 275,
+          "completed_orders": 171,
+          "completed_revenue": 56181.34
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 245,
+          "completed_orders": 168,
+          "completed_revenue": 53454.12
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 226,
+          "completed_orders": 145,
+          "completed_revenue": 53003.56
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 280,
+          "completed_orders": 185,
+          "completed_revenue": 46997.99
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 323,
+          "completed_orders": 193,
+          "completed_revenue": 46764.73
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 277,
+          "completed_orders": 187,
+          "completed_revenue": 44410.44
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 232,
+          "completed_orders": 157,
+          "completed_revenue": 43671.88
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 224,
+          "completed_orders": 151,
+          "completed_revenue": 43273.46
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 258,
+          "completed_orders": 177,
+          "completed_revenue": 40683.91
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 238,
+          "completed_orders": 161,
+          "completed_revenue": 39255.45
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 193,
+          "completed_orders": 141,
+          "completed_revenue": 28889.75
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P001143",
+          "product_name": "Orion Number",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 8031.18,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001003",
+          "product_name": "Willow Peace",
+          "category": "Automotive",
+          "brand": "Willow",
+          "items_sold": 9,
+          "completed_orders": 4,
+          "completed_revenue": 6092.55,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001953",
+          "product_name": "Orion International",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 5733,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P000555",
+          "product_name": "Acme Of",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 4,
+          "completed_orders": 3,
+          "completed_revenue": 5630.44,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001925",
+          "product_name": "Willow Hospital",
+          "category": "Automotive",
+          "brand": "Willow",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 5363.04,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P000012",
+          "product_name": "GreenLeaf Road",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 5198.84,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001504",
+          "product_name": "Harbor Return",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 4825.08,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P001462",
+          "product_name": "Zenith Happy",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 4758.45,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001229",
+          "product_name": "Willow Experience",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 4432.35,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001013",
+          "product_name": "Willow Spring",
+          "category": "Automotive",
+          "brand": "Willow",
+          "items_sold": 4,
+          "completed_orders": 3,
+          "completed_revenue": 4188.72,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 1029,
+          "percentage": 19.63
+        },
+        {
+          "label": "cancelled",
+          "count": 968,
+          "percentage": 18.47
+        },
+        {
+          "label": "returned",
+          "count": 1100,
+          "percentage": 20.99
+        },
+        {
+          "label": "shipped",
+          "count": 1096,
+          "percentage": 20.91
+        },
+        {
+          "label": "processing",
+          "count": 1048,
+          "percentage": 20
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 933,
+          "percentage": 95.11
+        },
+        {
+          "label": "2",
+          "count": 48,
+          "percentage": 4.89
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 339,
+          "percentage": 34.56
+        },
+        {
+          "label": "Male",
+          "count": 315,
+          "percentage": 32.11
+        },
+        {
+          "label": "Other",
+          "count": 327,
+          "percentage": 33.33
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 155,
+          "percentage": 3.88
+        },
+        {
+          "label": "2",
+          "count": 545,
+          "percentage": 13.65
+        },
+        {
+          "label": "3",
+          "count": 1117,
+          "percentage": 27.97
+        },
+        {
+          "label": "4",
+          "count": 1250,
+          "percentage": 31.3
+        },
+        {
+          "label": "5",
+          "count": 926,
+          "percentage": 23.19
+        }
+      ]
+    },
+    "all-2": {
+      "coverage": {
+        "first_order_date": "2024-04-01 00:30:05.415388",
+        "last_order_date": "2025-06-30 21:32:26.182212"
+      },
+      "kpis": {
+        "completed_orders": 1113,
+        "completed_revenue": 703248.92,
+        "completed_aov": 631.85,
+        "customers_with_completed_orders": 1048,
+        "repeat_customers": 64,
+        "repeat_customer_rate_pct": 6.11
+      },
+      "monthly": [
+        {
+          "order_month": "2024-04",
+          "completed_orders": 190,
+          "completed_revenue": 103610.56,
+          "completed_aov": 545.32
+        },
+        {
+          "order_month": "2024-05",
+          "completed_orders": 169,
+          "completed_revenue": 115249.52,
+          "completed_aov": 681.95
+        },
+        {
+          "order_month": "2024-06",
+          "completed_orders": 191,
+          "completed_revenue": 126550.29,
+          "completed_aov": 662.57
+        },
+        {
+          "order_month": "2025-04",
+          "completed_orders": 181,
+          "completed_revenue": 114765.65,
+          "completed_aov": 634.06
+        },
+        {
+          "order_month": "2025-05",
+          "completed_orders": 187,
+          "completed_revenue": 126909.41,
+          "completed_aov": 678.66
+        },
+        {
+          "order_month": "2025-06",
+          "completed_orders": 195,
+          "completed_revenue": 116163.49,
+          "completed_aov": 595.71
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 367,
+          "completed_orders": 231,
+          "completed_revenue": 315013.19
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 339,
+          "completed_orders": 218,
+          "completed_revenue": 142810.6
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 324,
+          "completed_orders": 210,
+          "completed_revenue": 60527.36
+        },
+        {
+          "category": "Sports",
+          "items_sold": 315,
+          "completed_orders": 200,
+          "completed_revenue": 52714.05
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 360,
+          "completed_orders": 219,
+          "completed_revenue": 40672.44
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 345,
+          "completed_orders": 233,
+          "completed_revenue": 29901.41
+        },
+        {
+          "category": "Toys",
+          "items_sold": 368,
+          "completed_orders": 241,
+          "completed_revenue": 22396.09
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 378,
+          "completed_orders": 244,
+          "completed_revenue": 19093.12
+        },
+        {
+          "category": "Books",
+          "items_sold": 321,
+          "completed_orders": 214,
+          "completed_revenue": 14908.46
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 302,
+          "completed_orders": 194,
+          "completed_revenue": 5212.2
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Willow",
+          "items_sold": 289,
+          "completed_orders": 192,
+          "completed_revenue": 85175.49
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 351,
+          "completed_orders": 226,
+          "completed_revenue": 66356.12
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 260,
+          "completed_orders": 172,
+          "completed_revenue": 64469.18
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 298,
+          "completed_orders": 194,
+          "completed_revenue": 62883.87
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 269,
+          "completed_orders": 183,
+          "completed_revenue": 62635.5
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 297,
+          "completed_orders": 194,
+          "completed_revenue": 61671.32
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 285,
+          "completed_orders": 181,
+          "completed_revenue": 58711.11
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 286,
+          "completed_orders": 181,
+          "completed_revenue": 58544.36
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 292,
+          "completed_orders": 195,
+          "completed_revenue": 46818.03
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 252,
+          "completed_orders": 164,
+          "completed_revenue": 46092.9
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 278,
+          "completed_orders": 186,
+          "completed_revenue": 45189.95
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 262,
+          "completed_orders": 168,
+          "completed_revenue": 44701.09
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P000298",
+          "product_name": "Zenith Deal",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 8,
+          "completed_orders": 3,
+          "completed_revenue": 9911.44,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001527",
+          "product_name": "Willow Result",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 8141.68,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P000966",
+          "product_name": "Harbor Buy",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 6908.82,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P001731",
+          "product_name": "GreenLeaf Glass",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 7,
+          "completed_orders": 4,
+          "completed_revenue": 5590.2,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001183",
+          "product_name": "Nimbus Word",
+          "category": "Electronics",
+          "brand": "Nimbus",
+          "items_sold": 3,
+          "completed_orders": 3,
+          "completed_revenue": 5505.96,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001036",
+          "product_name": "Pulse Security",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 5,
+          "completed_orders": 3,
+          "completed_revenue": 5378.25,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001143",
+          "product_name": "Orion Number",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 4,
+          "completed_orders": 3,
+          "completed_revenue": 5354.12,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P001012",
+          "product_name": "Acme Him",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 5160.8,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001892",
+          "product_name": "Willow Need",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 4,
+          "completed_orders": 3,
+          "completed_revenue": 5151.8,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001113",
+          "product_name": "Pulse Interesting",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 4989.36,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 1113,
+          "percentage": 20.74
+        },
+        {
+          "label": "cancelled",
+          "count": 1083,
+          "percentage": 20.18
+        },
+        {
+          "label": "returned",
+          "count": 1074,
+          "percentage": 20.01
+        },
+        {
+          "label": "shipped",
+          "count": 1097,
+          "percentage": 20.44
+        },
+        {
+          "label": "processing",
+          "count": 999,
+          "percentage": 18.62
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 984,
+          "percentage": 93.89
+        },
+        {
+          "label": "2",
+          "count": 63,
+          "percentage": 6.01
+        },
+        {
+          "label": "3",
+          "count": 1,
+          "percentage": 0.1
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 340,
+          "percentage": 32.44
+        },
+        {
+          "label": "Male",
+          "count": 338,
+          "percentage": 32.25
+        },
+        {
+          "label": "Other",
+          "count": 370,
+          "percentage": 35.31
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 154,
+          "percentage": 3.86
+        },
+        {
+          "label": "2",
+          "count": 545,
+          "percentage": 13.68
+        },
+        {
+          "label": "3",
+          "count": 1133,
+          "percentage": 28.43
+        },
+        {
+          "label": "4",
+          "count": 1268,
+          "percentage": 31.82
+        },
+        {
+          "label": "5",
+          "count": 885,
+          "percentage": 22.21
+        }
+      ]
+    },
+    "all-3": {
+      "coverage": {
+        "first_order_date": "2024-07-01 01:01:39.980555",
+        "last_order_date": "2025-09-30 23:29:37.619568"
+      },
+      "kpis": {
+        "completed_orders": 1089,
+        "completed_revenue": 633346.64,
+        "completed_aov": 581.59,
+        "customers_with_completed_orders": 1028,
+        "repeat_customers": 61,
+        "repeat_customer_rate_pct": 5.93
+      },
+      "monthly": [
+        {
+          "order_month": "2024-07",
+          "completed_orders": 186,
+          "completed_revenue": 108635.16,
+          "completed_aov": 584.06
+        },
+        {
+          "order_month": "2024-08",
+          "completed_orders": 190,
+          "completed_revenue": 91515.76,
+          "completed_aov": 481.66
+        },
+        {
+          "order_month": "2024-09",
+          "completed_orders": 168,
+          "completed_revenue": 96088.95,
+          "completed_aov": 571.96
+        },
+        {
+          "order_month": "2025-07",
+          "completed_orders": 172,
+          "completed_revenue": 111926.51,
+          "completed_aov": 650.74
+        },
+        {
+          "order_month": "2025-08",
+          "completed_orders": 192,
+          "completed_revenue": 109437.47,
+          "completed_aov": 569.99
+        },
+        {
+          "order_month": "2025-09",
+          "completed_orders": 181,
+          "completed_revenue": 115742.79,
+          "completed_aov": 639.46
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 309,
+          "completed_orders": 210,
+          "completed_revenue": 233073.71
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 340,
+          "completed_orders": 214,
+          "completed_revenue": 157926.59
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 342,
+          "completed_orders": 219,
+          "completed_revenue": 63681.44
+        },
+        {
+          "category": "Sports",
+          "items_sold": 306,
+          "completed_orders": 207,
+          "completed_revenue": 49785.16
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 341,
+          "completed_orders": 231,
+          "completed_revenue": 36964.9
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 383,
+          "completed_orders": 249,
+          "completed_revenue": 34415.75
+        },
+        {
+          "category": "Toys",
+          "items_sold": 327,
+          "completed_orders": 205,
+          "completed_revenue": 20424.79
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 343,
+          "completed_orders": 209,
+          "completed_revenue": 18319.59
+        },
+        {
+          "category": "Books",
+          "items_sold": 307,
+          "completed_orders": 201,
+          "completed_revenue": 14255.05
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 288,
+          "completed_orders": 191,
+          "completed_revenue": 4499.66
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Nimbus",
+          "items_sold": 320,
+          "completed_orders": 197,
+          "completed_revenue": 68415.1
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 327,
+          "completed_orders": 207,
+          "completed_revenue": 63024.93
+        },
+        {
+          "brand": "Willow",
+          "items_sold": 254,
+          "completed_orders": 177,
+          "completed_revenue": 61335.63
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 314,
+          "completed_orders": 205,
+          "completed_revenue": 56044.94
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 250,
+          "completed_orders": 170,
+          "completed_revenue": 54980.02
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 319,
+          "completed_orders": 220,
+          "completed_revenue": 51832.88
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 207,
+          "completed_orders": 140,
+          "completed_revenue": 49861.48
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 268,
+          "completed_orders": 167,
+          "completed_revenue": 49522.66
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 260,
+          "completed_orders": 177,
+          "completed_revenue": 47536.44
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 228,
+          "completed_orders": 166,
+          "completed_revenue": 47198.11
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 302,
+          "completed_orders": 192,
+          "completed_revenue": 43981.13
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 237,
+          "completed_orders": 153,
+          "completed_revenue": 39613.32
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P000954",
+          "product_name": "Harbor Cost",
+          "category": "Automotive",
+          "brand": "Harbor",
+          "items_sold": 14,
+          "completed_orders": 6,
+          "completed_revenue": 9261.28,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001892",
+          "product_name": "Willow Need",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 7727.7,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001081",
+          "product_name": "Astra Act",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 7,
+          "completed_orders": 5,
+          "completed_revenue": 6897.45,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P000886",
+          "product_name": "Pulse Sea",
+          "category": "Automotive",
+          "brand": "Pulse",
+          "items_sold": 6,
+          "completed_orders": 2,
+          "completed_revenue": 5320.62,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001987",
+          "product_name": "Astra Sea",
+          "category": "Automotive",
+          "brand": "Astra",
+          "items_sold": 6,
+          "completed_orders": 5,
+          "completed_revenue": 5226.18,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001305",
+          "product_name": "Nimbus Drug",
+          "category": "Automotive",
+          "brand": "Nimbus",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 5185.14,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001113",
+          "product_name": "Pulse Interesting",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 4989.36,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P000458",
+          "product_name": "Everest Black",
+          "category": "Electronics",
+          "brand": "Everest",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 4910.5,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001448",
+          "product_name": "Harbor Onto",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 4907.12,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001125",
+          "product_name": "Harbor Against",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 4726.56,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 1089,
+          "percentage": 19.99
+        },
+        {
+          "label": "cancelled",
+          "count": 1087,
+          "percentage": 19.95
+        },
+        {
+          "label": "returned",
+          "count": 1113,
+          "percentage": 20.43
+        },
+        {
+          "label": "shipped",
+          "count": 1127,
+          "percentage": 20.68
+        },
+        {
+          "label": "processing",
+          "count": 1033,
+          "percentage": 18.96
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 967,
+          "percentage": 94.07
+        },
+        {
+          "label": "2",
+          "count": 61,
+          "percentage": 5.93
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 378,
+          "percentage": 36.77
+        },
+        {
+          "label": "Male",
+          "count": 322,
+          "percentage": 31.32
+        },
+        {
+          "label": "Other",
+          "count": 328,
+          "percentage": 31.91
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 156,
+          "percentage": 3.93
+        },
+        {
+          "label": "2",
+          "count": 562,
+          "percentage": 14.15
+        },
+        {
+          "label": "3",
+          "count": 1170,
+          "percentage": 29.46
+        },
+        {
+          "label": "4",
+          "count": 1170,
+          "percentage": 29.46
+        },
+        {
+          "label": "5",
+          "count": 914,
+          "percentage": 23.01
+        }
+      ]
+    },
+    "all-4": {
+      "coverage": {
+        "first_order_date": "2024-10-01 00:32:52.210432",
+        "last_order_date": "2025-11-14 23:17:25.548939"
+      },
+      "kpis": {
+        "completed_orders": 790,
+        "completed_revenue": 503909.08,
+        "completed_aov": 637.86,
+        "customers_with_completed_orders": 767,
+        "repeat_customers": 21,
+        "repeat_customer_rate_pct": 2.74
+      },
+      "monthly": [
+        {
+          "order_month": "2024-10",
+          "completed_orders": 185,
+          "completed_revenue": 113797.42,
+          "completed_aov": 615.12
+        },
+        {
+          "order_month": "2024-11",
+          "completed_orders": 164,
+          "completed_revenue": 98829.66,
+          "completed_aov": 602.62
+        },
+        {
+          "order_month": "2024-12",
+          "completed_orders": 165,
+          "completed_revenue": 109147.67,
+          "completed_aov": 661.5
+        },
+        {
+          "order_month": "2025-10",
+          "completed_orders": 185,
+          "completed_revenue": 111493.71,
+          "completed_aov": 602.67
+        },
+        {
+          "order_month": "2025-11",
+          "completed_orders": 91,
+          "completed_revenue": 70640.62,
+          "completed_aov": 776.27
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 216,
+          "completed_orders": 139,
+          "completed_revenue": 194457.7
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 281,
+          "completed_orders": 177,
+          "completed_revenue": 122373.8
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 260,
+          "completed_orders": 164,
+          "completed_revenue": 50329.25
+        },
+        {
+          "category": "Sports",
+          "items_sold": 235,
+          "completed_orders": 161,
+          "completed_revenue": 42242.76
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 255,
+          "completed_orders": 164,
+          "completed_revenue": 28811.9
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 254,
+          "completed_orders": 164,
+          "completed_revenue": 21981.27
+        },
+        {
+          "category": "Toys",
+          "items_sold": 267,
+          "completed_orders": 169,
+          "completed_revenue": 16317.84
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 272,
+          "completed_orders": 165,
+          "completed_revenue": 14001.58
+        },
+        {
+          "category": "Books",
+          "items_sold": 240,
+          "completed_orders": 156,
+          "completed_revenue": 10784.18
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 178,
+          "completed_orders": 128,
+          "completed_revenue": 2608.8
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Nimbus",
+          "items_sold": 222,
+          "completed_orders": 142,
+          "completed_revenue": 57957.55
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 262,
+          "completed_orders": 171,
+          "completed_revenue": 50667.24
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 203,
+          "completed_orders": 136,
+          "completed_revenue": 47288
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 209,
+          "completed_orders": 133,
+          "completed_revenue": 45299.73
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 203,
+          "completed_orders": 124,
+          "completed_revenue": 44383.95
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 241,
+          "completed_orders": 150,
+          "completed_revenue": 41694.96
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 188,
+          "completed_orders": 122,
+          "completed_revenue": 40573
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 167,
+          "completed_orders": 114,
+          "completed_revenue": 37757.56
+        },
+        {
+          "brand": "Willow",
+          "items_sold": 164,
+          "completed_orders": 111,
+          "completed_revenue": 36722.57
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 186,
+          "completed_orders": 124,
+          "completed_revenue": 35051.62
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 220,
+          "completed_orders": 145,
+          "completed_revenue": 33525.12
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 193,
+          "completed_orders": 131,
+          "completed_revenue": 32987.78
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P000136",
+          "product_name": "Zenith Phone",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 3,
+          "completed_orders": 3,
+          "completed_revenue": 6509.94,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001049",
+          "product_name": "Zenith Their",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 6399.92,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001527",
+          "product_name": "Willow Result",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 6106.26,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P001183",
+          "product_name": "Nimbus Word",
+          "category": "Electronics",
+          "brand": "Nimbus",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 5505.96,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001606",
+          "product_name": "GreenLeaf Stage",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 5489.8,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P000681",
+          "product_name": "Acme Keep",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 5124.6,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P000358",
+          "product_name": "Solace Something",
+          "category": "Electronics",
+          "brand": "Solace",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 5008.35,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P000820",
+          "product_name": "Orion Get",
+          "category": "Automotive",
+          "brand": "Orion",
+          "items_sold": 5,
+          "completed_orders": 3,
+          "completed_revenue": 4870.8,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P000055",
+          "product_name": "Astra Our",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 5,
+          "completed_orders": 3,
+          "completed_revenue": 4748.65,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P000569",
+          "product_name": "Zenith Control",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 5,
+          "completed_orders": 3,
+          "completed_revenue": 4625.85,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 790,
+          "percentage": 20.03
+        },
+        {
+          "label": "cancelled",
+          "count": 782,
+          "percentage": 19.83
+        },
+        {
+          "label": "returned",
+          "count": 779,
+          "percentage": 19.75
+        },
+        {
+          "label": "shipped",
+          "count": 793,
+          "percentage": 20.11
+        },
+        {
+          "label": "processing",
+          "count": 800,
+          "percentage": 20.28
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 746,
+          "percentage": 97.26
+        },
+        {
+          "label": "2",
+          "count": 19,
+          "percentage": 2.48
+        },
+        {
+          "label": "3",
+          "count": 2,
+          "percentage": 0.26
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 253,
+          "percentage": 32.99
+        },
+        {
+          "label": "Male",
+          "count": 250,
+          "percentage": 32.59
+        },
+        {
+          "label": "Other",
+          "count": 264,
+          "percentage": 34.42
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 129,
+          "percentage": 4.23
+        },
+        {
+          "label": "2",
+          "count": 432,
+          "percentage": 14.16
+        },
+        {
+          "label": "3",
+          "count": 869,
+          "percentage": 28.49
+        },
+        {
+          "label": "4",
+          "count": 936,
+          "percentage": 30.69
+        },
+        {
+          "label": "5",
+          "count": 684,
+          "percentage": 22.43
+        }
+      ]
+    },
+    "2024-all": {
+      "coverage": {
+        "first_order_date": "2024-01-01 00:14:17.631198",
+        "last_order_date": "2024-12-31 23:13:26.058033"
+      },
+      "kpis": {
+        "completed_orders": 2135,
+        "completed_revenue": 1266743.53,
+        "completed_aov": 593.32,
+        "customers_with_completed_orders": 1912,
+        "repeat_customers": 204,
+        "repeat_customer_rate_pct": 10.67
+      },
+      "monthly": [
+        {
+          "order_month": "2024-01",
+          "completed_orders": 167,
+          "completed_revenue": 95429.66,
+          "completed_aov": 571.44
+        },
+        {
+          "order_month": "2024-02",
+          "completed_orders": 147,
+          "completed_revenue": 73319.35,
+          "completed_aov": 498.77
+        },
+        {
+          "order_month": "2024-03",
+          "completed_orders": 213,
+          "completed_revenue": 134569.53,
+          "completed_aov": 631.78
+        },
+        {
+          "order_month": "2024-04",
+          "completed_orders": 190,
+          "completed_revenue": 103610.56,
+          "completed_aov": 545.32
+        },
+        {
+          "order_month": "2024-05",
+          "completed_orders": 169,
+          "completed_revenue": 115249.52,
+          "completed_aov": 681.95
+        },
+        {
+          "order_month": "2024-06",
+          "completed_orders": 191,
+          "completed_revenue": 126550.29,
+          "completed_aov": 662.57
+        },
+        {
+          "order_month": "2024-07",
+          "completed_orders": 186,
+          "completed_revenue": 108635.16,
+          "completed_aov": 584.06
+        },
+        {
+          "order_month": "2024-08",
+          "completed_orders": 190,
+          "completed_revenue": 91515.76,
+          "completed_aov": 481.66
+        },
+        {
+          "order_month": "2024-09",
+          "completed_orders": 168,
+          "completed_revenue": 96088.95,
+          "completed_aov": 571.96
+        },
+        {
+          "order_month": "2024-10",
+          "completed_orders": 185,
+          "completed_revenue": 113797.42,
+          "completed_aov": 615.12
+        },
+        {
+          "order_month": "2024-11",
+          "completed_orders": 164,
+          "completed_revenue": 98829.66,
+          "completed_aov": 602.62
+        },
+        {
+          "order_month": "2024-12",
+          "completed_orders": 165,
+          "completed_revenue": 109147.67,
+          "completed_aov": 661.5
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 611,
+          "completed_orders": 404,
+          "completed_revenue": 511832.38
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 664,
+          "completed_orders": 416,
+          "completed_revenue": 278540.56
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 657,
+          "completed_orders": 432,
+          "completed_revenue": 120832.06
+        },
+        {
+          "category": "Sports",
+          "items_sold": 624,
+          "completed_orders": 427,
+          "completed_revenue": 107646.52
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 648,
+          "completed_orders": 417,
+          "completed_revenue": 72293.26
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 706,
+          "completed_orders": 455,
+          "completed_revenue": 62337.45
+        },
+        {
+          "category": "Toys",
+          "items_sold": 709,
+          "completed_orders": 459,
+          "completed_revenue": 41971.14
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 685,
+          "completed_orders": 427,
+          "completed_revenue": 35999.14
+        },
+        {
+          "category": "Books",
+          "items_sold": 577,
+          "completed_orders": 390,
+          "completed_revenue": 26760.39
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 524,
+          "completed_orders": 348,
+          "completed_revenue": 8530.63
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Willow",
+          "items_sold": 526,
+          "completed_orders": 357,
+          "completed_revenue": 133120.94
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 588,
+          "completed_orders": 363,
+          "completed_revenue": 127754.85
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 638,
+          "completed_orders": 417,
+          "completed_revenue": 115869.11
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 495,
+          "completed_orders": 347,
+          "completed_revenue": 114305.19
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 544,
+          "completed_orders": 357,
+          "completed_revenue": 105238.25
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 528,
+          "completed_orders": 351,
+          "completed_revenue": 104006.05
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 617,
+          "completed_orders": 389,
+          "completed_revenue": 103971.08
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 507,
+          "completed_orders": 341,
+          "completed_revenue": 103202.34
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 529,
+          "completed_orders": 341,
+          "completed_revenue": 100018.98
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 438,
+          "completed_orders": 301,
+          "completed_revenue": 94666.62
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 536,
+          "completed_orders": 356,
+          "completed_revenue": 88461.04
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 459,
+          "completed_orders": 305,
+          "completed_revenue": 76129.08
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P001012",
+          "product_name": "Acme Him",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 9,
+          "completed_orders": 4,
+          "completed_revenue": 11611.8,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P000136",
+          "product_name": "Zenith Phone",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 5,
+          "completed_orders": 5,
+          "completed_revenue": 10849.9,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001892",
+          "product_name": "Willow Need",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 8,
+          "completed_orders": 5,
+          "completed_revenue": 10303.6,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P000555",
+          "product_name": "Acme Of",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 7,
+          "completed_orders": 5,
+          "completed_revenue": 9853.27,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P000354",
+          "product_name": "Pulse Letter",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 7,
+          "completed_orders": 4,
+          "completed_revenue": 9711.73,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001143",
+          "product_name": "Orion Number",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 7,
+          "completed_orders": 4,
+          "completed_revenue": 9369.71,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001183",
+          "product_name": "Nimbus Word",
+          "category": "Electronics",
+          "brand": "Nimbus",
+          "items_sold": 5,
+          "completed_orders": 4,
+          "completed_revenue": 9176.6,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P001606",
+          "product_name": "GreenLeaf Stage",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 8,
+          "completed_orders": 5,
+          "completed_revenue": 8783.68,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001731",
+          "product_name": "GreenLeaf Glass",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 10,
+          "completed_orders": 5,
+          "completed_revenue": 7986,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001305",
+          "product_name": "Nimbus Drug",
+          "category": "Automotive",
+          "brand": "Nimbus",
+          "items_sold": 9,
+          "completed_orders": 6,
+          "completed_revenue": 7777.71,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 2135,
+          "percentage": 19.83
+        },
+        {
+          "label": "cancelled",
+          "count": 2137,
+          "percentage": 19.84
+        },
+        {
+          "label": "returned",
+          "count": 2179,
+          "percentage": 20.23
+        },
+        {
+          "label": "shipped",
+          "count": 2232,
+          "percentage": 20.73
+        },
+        {
+          "label": "processing",
+          "count": 2086,
+          "percentage": 19.37
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 1708,
+          "percentage": 89.33
+        },
+        {
+          "label": "2",
+          "count": 186,
+          "percentage": 9.73
+        },
+        {
+          "label": "3",
+          "count": 17,
+          "percentage": 0.89
+        },
+        {
+          "label": "4+",
+          "count": 1,
+          "percentage": 0.05
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 652,
+          "percentage": 34.1
+        },
+        {
+          "label": "Male",
+          "count": 626,
+          "percentage": 32.74
+        },
+        {
+          "label": "Other",
+          "count": 634,
+          "percentage": 33.16
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 322,
+          "percentage": 3.95
+        },
+        {
+          "label": "2",
+          "count": 1149,
+          "percentage": 14.08
+        },
+        {
+          "label": "3",
+          "count": 2312,
+          "percentage": 28.34
+        },
+        {
+          "label": "4",
+          "count": 2512,
+          "percentage": 30.79
+        },
+        {
+          "label": "5",
+          "count": 1863,
+          "percentage": 22.84
+        }
+      ]
+    },
+    "2024-1": {
+      "coverage": {
+        "first_order_date": "2024-01-01 00:14:17.631198",
+        "last_order_date": "2024-03-31 23:57:31.710965"
+      },
+      "kpis": {
+        "completed_orders": 527,
+        "completed_revenue": 303318.54,
+        "completed_aov": 575.56,
+        "customers_with_completed_orders": 519,
+        "repeat_customers": 8,
+        "repeat_customer_rate_pct": 1.54
+      },
+      "monthly": [
+        {
+          "order_month": "2024-01",
+          "completed_orders": 167,
+          "completed_revenue": 95429.66,
+          "completed_aov": 571.44
+        },
+        {
+          "order_month": "2024-02",
+          "completed_orders": 147,
+          "completed_revenue": 73319.35,
+          "completed_aov": 498.77
+        },
+        {
+          "order_month": "2024-03",
+          "completed_orders": 213,
+          "completed_revenue": 134569.53,
+          "completed_aov": 631.78
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 143,
+          "completed_orders": 93,
+          "completed_revenue": 123448.96
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 163,
+          "completed_orders": 104,
+          "completed_revenue": 61450.18
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 172,
+          "completed_orders": 116,
+          "completed_revenue": 33266.37
+        },
+        {
+          "category": "Sports",
+          "items_sold": 136,
+          "completed_orders": 99,
+          "completed_revenue": 25089.71
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 148,
+          "completed_orders": 95,
+          "completed_revenue": 16410.15
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 167,
+          "completed_orders": 107,
+          "completed_revenue": 15602.43
+        },
+        {
+          "category": "Toys",
+          "items_sold": 180,
+          "completed_orders": 113,
+          "completed_revenue": 10573.06
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 163,
+          "completed_orders": 106,
+          "completed_revenue": 9116.89
+        },
+        {
+          "category": "Books",
+          "items_sold": 149,
+          "completed_orders": 102,
+          "completed_revenue": 6270.11
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 124,
+          "completed_orders": 78,
+          "completed_revenue": 2090.68
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Willow",
+          "items_sold": 149,
+          "completed_orders": 105,
+          "completed_revenue": 41893.13
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 180,
+          "completed_orders": 106,
+          "completed_revenue": 29028.28
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 115,
+          "completed_orders": 77,
+          "completed_revenue": 28432.08
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 122,
+          "completed_orders": 74,
+          "completed_revenue": 27919.21
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 136,
+          "completed_orders": 95,
+          "completed_revenue": 25896.85
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 147,
+          "completed_orders": 94,
+          "completed_revenue": 24622.15
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 112,
+          "completed_orders": 78,
+          "completed_revenue": 24554.09
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 117,
+          "completed_orders": 83,
+          "completed_revenue": 23222.26
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 128,
+          "completed_orders": 90,
+          "completed_revenue": 22838.27
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 133,
+          "completed_orders": 84,
+          "completed_revenue": 22804.88
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 110,
+          "completed_orders": 73,
+          "completed_revenue": 20599.06
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 96,
+          "completed_orders": 70,
+          "completed_revenue": 11508.28
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P001143",
+          "product_name": "Orion Number",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 6692.65,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P000012",
+          "product_name": "GreenLeaf Road",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 5198.84,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001504",
+          "product_name": "Harbor Return",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 4825.08,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P000458",
+          "product_name": "Everest Black",
+          "category": "Electronics",
+          "brand": "Everest",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3928.4,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P000174",
+          "product_name": "Zenith Run",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3842.96,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001227",
+          "product_name": "GreenLeaf System",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3782.04,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001672",
+          "product_name": "NeoTech Career",
+          "category": "Electronics",
+          "brand": "NeoTech",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3772.56,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P001824",
+          "product_name": "Solace Foreign",
+          "category": "Electronics",
+          "brand": "Solace",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3700.8,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001731",
+          "product_name": "GreenLeaf Glass",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3194.4,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001013",
+          "product_name": "Willow Spring",
+          "category": "Automotive",
+          "brand": "Willow",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 3141.54,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 527,
+          "percentage": 19.92
+        },
+        {
+          "label": "cancelled",
+          "count": 511,
+          "percentage": 19.32
+        },
+        {
+          "label": "returned",
+          "count": 537,
+          "percentage": 20.3
+        },
+        {
+          "label": "shipped",
+          "count": 561,
+          "percentage": 21.21
+        },
+        {
+          "label": "processing",
+          "count": 509,
+          "percentage": 19.24
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 511,
+          "percentage": 98.46
+        },
+        {
+          "label": "2",
+          "count": 8,
+          "percentage": 1.54
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 183,
+          "percentage": 35.26
+        },
+        {
+          "label": "Male",
+          "count": 168,
+          "percentage": 32.37
+        },
+        {
+          "label": "Other",
+          "count": 168,
+          "percentage": 32.37
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 77,
+          "percentage": 3.77
+        },
+        {
+          "label": "2",
+          "count": 279,
+          "percentage": 13.64
+        },
+        {
+          "label": "3",
+          "count": 561,
+          "percentage": 27.43
+        },
+        {
+          "label": "4",
+          "count": 657,
+          "percentage": 32.13
+        },
+        {
+          "label": "5",
+          "count": 471,
+          "percentage": 23.03
+        }
+      ]
+    },
+    "2024-2": {
+      "coverage": {
+        "first_order_date": "2024-04-01 00:30:05.415388",
+        "last_order_date": "2024-06-30 23:45:41.479505"
+      },
+      "kpis": {
+        "completed_orders": 550,
+        "completed_revenue": 345410.37,
+        "completed_aov": 628.02,
+        "customers_with_completed_orders": 533,
+        "repeat_customers": 17,
+        "repeat_customer_rate_pct": 3.19
+      },
+      "monthly": [
+        {
+          "order_month": "2024-04",
+          "completed_orders": 190,
+          "completed_revenue": 103610.56,
+          "completed_aov": 545.32
+        },
+        {
+          "order_month": "2024-05",
+          "completed_orders": 169,
+          "completed_revenue": 115249.52,
+          "completed_aov": 681.95
+        },
+        {
+          "order_month": "2024-06",
+          "completed_orders": 191,
+          "completed_revenue": 126550.29,
+          "completed_aov": 662.57
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 182,
+          "completed_orders": 120,
+          "completed_revenue": 151498.96
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 174,
+          "completed_orders": 110,
+          "completed_revenue": 75379.18
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 149,
+          "completed_orders": 99,
+          "completed_revenue": 27550.32
+        },
+        {
+          "category": "Sports",
+          "items_sold": 160,
+          "completed_orders": 105,
+          "completed_revenue": 26888.52
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 176,
+          "completed_orders": 111,
+          "completed_revenue": 19429.42
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 193,
+          "completed_orders": 119,
+          "completed_revenue": 16538.28
+        },
+        {
+          "category": "Toys",
+          "items_sold": 195,
+          "completed_orders": 127,
+          "completed_revenue": 11930.74
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 158,
+          "completed_orders": 107,
+          "completed_revenue": 7278.68
+        },
+        {
+          "category": "Books",
+          "items_sold": 135,
+          "completed_orders": 99,
+          "completed_revenue": 6681.77
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 133,
+          "completed_orders": 89,
+          "completed_revenue": 2234.5
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Willow",
+          "items_sold": 152,
+          "completed_orders": 98,
+          "completed_revenue": 44250.64
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 134,
+          "completed_orders": 89,
+          "completed_revenue": 34216.65
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 130,
+          "completed_orders": 84,
+          "completed_revenue": 31101.46
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 134,
+          "completed_orders": 91,
+          "completed_revenue": 31077.81
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 150,
+          "completed_orders": 102,
+          "completed_revenue": 30885.3
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 131,
+          "completed_orders": 85,
+          "completed_revenue": 29515.65
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 152,
+          "completed_orders": 94,
+          "completed_revenue": 28709.85
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 141,
+          "completed_orders": 90,
+          "completed_revenue": 28000.67
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 139,
+          "completed_orders": 88,
+          "completed_revenue": 27512.26
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 131,
+          "completed_orders": 90,
+          "completed_revenue": 20730.7
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 143,
+          "completed_orders": 92,
+          "completed_revenue": 20503.86
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 118,
+          "completed_orders": 78,
+          "completed_revenue": 18905.52
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P000555",
+          "product_name": "Acme Of",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 4222.83,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P000354",
+          "product_name": "Pulse Letter",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 4162.17,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001611",
+          "product_name": "Willow Benefit",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 4,
+          "completed_orders": 4,
+          "completed_revenue": 4115.52,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P001012",
+          "product_name": "Acme Him",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3870.6,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P000731",
+          "product_name": "Pulse Treat",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3709.26,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001872",
+          "product_name": "Everest Budget",
+          "category": "Electronics",
+          "brand": "Everest",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3653.49,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001987",
+          "product_name": "Astra Sea",
+          "category": "Automotive",
+          "brand": "Astra",
+          "items_sold": 4,
+          "completed_orders": 3,
+          "completed_revenue": 3484.12,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P000679",
+          "product_name": "Orion Clearly",
+          "category": "Automotive",
+          "brand": "Orion",
+          "items_sold": 7,
+          "completed_orders": 3,
+          "completed_revenue": 3477.46,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P000628",
+          "product_name": "Astra Small",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 5,
+          "completed_orders": 3,
+          "completed_revenue": 3061.15,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P000754",
+          "product_name": "Acme Information",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 2,
+          "completed_orders": 2,
+          "completed_revenue": 3022.22,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 550,
+          "percentage": 20.13
+        },
+        {
+          "label": "cancelled",
+          "count": 560,
+          "percentage": 20.5
+        },
+        {
+          "label": "returned",
+          "count": 551,
+          "percentage": 20.17
+        },
+        {
+          "label": "shipped",
+          "count": 574,
+          "percentage": 21.01
+        },
+        {
+          "label": "processing",
+          "count": 497,
+          "percentage": 18.19
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 516,
+          "percentage": 96.81
+        },
+        {
+          "label": "2",
+          "count": 17,
+          "percentage": 3.19
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 169,
+          "percentage": 31.71
+        },
+        {
+          "label": "Male",
+          "count": 179,
+          "percentage": 33.58
+        },
+        {
+          "label": "Other",
+          "count": 185,
+          "percentage": 34.71
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 87,
+          "percentage": 4.33
+        },
+        {
+          "label": "2",
+          "count": 295,
+          "percentage": 14.68
+        },
+        {
+          "label": "3",
+          "count": 553,
+          "percentage": 27.51
+        },
+        {
+          "label": "4",
+          "count": 622,
+          "percentage": 30.95
+        },
+        {
+          "label": "5",
+          "count": 453,
+          "percentage": 22.54
+        }
+      ]
+    },
+    "2024-3": {
+      "coverage": {
+        "first_order_date": "2024-07-01 01:01:39.980555",
+        "last_order_date": "2024-09-30 23:08:10.845119"
+      },
+      "kpis": {
+        "completed_orders": 544,
+        "completed_revenue": 296239.87,
+        "completed_aov": 544.56,
+        "customers_with_completed_orders": 531,
+        "repeat_customers": 13,
+        "repeat_customer_rate_pct": 2.45
+      },
+      "monthly": [
+        {
+          "order_month": "2024-07",
+          "completed_orders": 186,
+          "completed_revenue": 108635.16,
+          "completed_aov": 584.06
+        },
+        {
+          "order_month": "2024-08",
+          "completed_orders": 190,
+          "completed_revenue": 91515.76,
+          "completed_aov": 481.66
+        },
+        {
+          "order_month": "2024-09",
+          "completed_orders": 168,
+          "completed_revenue": 96088.95,
+          "completed_aov": 571.96
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 144,
+          "completed_orders": 95,
+          "completed_revenue": 111947.68
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 152,
+          "completed_orders": 94,
+          "completed_revenue": 66224.78
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 166,
+          "completed_orders": 107,
+          "completed_revenue": 28715.33
+        },
+        {
+          "category": "Sports",
+          "items_sold": 174,
+          "completed_orders": 116,
+          "completed_revenue": 28231.43
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 161,
+          "completed_orders": 108,
+          "completed_revenue": 16964.72
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 176,
+          "completed_orders": 120,
+          "completed_revenue": 15629.54
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 177,
+          "completed_orders": 107,
+          "completed_revenue": 9917.9
+        },
+        {
+          "category": "Toys",
+          "items_sold": 154,
+          "completed_orders": 103,
+          "completed_revenue": 8470.28
+        },
+        {
+          "category": "Books",
+          "items_sold": 155,
+          "completed_orders": 99,
+          "completed_revenue": 7650.06
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 152,
+          "completed_orders": 98,
+          "completed_revenue": 2488.15
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Nimbus",
+          "items_sold": 151,
+          "completed_orders": 90,
+          "completed_revenue": 32316.56
+        },
+        {
+          "brand": "Willow",
+          "items_sold": 121,
+          "completed_orders": 82,
+          "completed_revenue": 29635.05
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 166,
+          "completed_orders": 105,
+          "completed_revenue": 29485.23
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 127,
+          "completed_orders": 96,
+          "completed_revenue": 28373.38
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 147,
+          "completed_orders": 105,
+          "completed_revenue": 25965.74
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 119,
+          "completed_orders": 88,
+          "completed_revenue": 24854.56
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 150,
+          "completed_orders": 89,
+          "completed_revenue": 23348.73
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 99,
+          "completed_orders": 67,
+          "completed_revenue": 22000.22
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 138,
+          "completed_orders": 94,
+          "completed_revenue": 21554.96
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 126,
+          "completed_orders": 84,
+          "completed_revenue": 21539.07
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 145,
+          "completed_orders": 88,
+          "completed_revenue": 21055.98
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 122,
+          "completed_orders": 82,
+          "completed_revenue": 16110.39
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P001892",
+          "product_name": "Willow Need",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 6439.75,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001448",
+          "product_name": "Harbor Onto",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 4907.12,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P000954",
+          "product_name": "Harbor Cost",
+          "category": "Automotive",
+          "brand": "Harbor",
+          "items_sold": 6,
+          "completed_orders": 2,
+          "completed_revenue": 3969.12,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P001081",
+          "product_name": "Astra Act",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3941.4,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001012",
+          "product_name": "Acme Him",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3870.6,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001305",
+          "product_name": "Nimbus Drug",
+          "category": "Automotive",
+          "brand": "Nimbus",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3456.76,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001485",
+          "product_name": "Pulse Lose",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3402.44,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P000664",
+          "product_name": "Harbor Size",
+          "category": "Automotive",
+          "brand": "Harbor",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 3377.1,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P000458",
+          "product_name": "Everest Black",
+          "category": "Electronics",
+          "brand": "Everest",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 2946.3,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001497",
+          "product_name": "Harbor Power",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 2833.68,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 544,
+          "percentage": 19.93
+        },
+        {
+          "label": "cancelled",
+          "count": 539,
+          "percentage": 19.75
+        },
+        {
+          "label": "returned",
+          "count": 542,
+          "percentage": 19.86
+        },
+        {
+          "label": "shipped",
+          "count": 571,
+          "percentage": 20.92
+        },
+        {
+          "label": "processing",
+          "count": 533,
+          "percentage": 19.53
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 518,
+          "percentage": 97.55
+        },
+        {
+          "label": "2",
+          "count": 13,
+          "percentage": 2.45
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 193,
+          "percentage": 36.35
+        },
+        {
+          "label": "Male",
+          "count": 171,
+          "percentage": 32.2
+        },
+        {
+          "label": "Other",
+          "count": 167,
+          "percentage": 31.45
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 75,
+          "percentage": 3.72
+        },
+        {
+          "label": "2",
+          "count": 292,
+          "percentage": 14.48
+        },
+        {
+          "label": "3",
+          "count": 609,
+          "percentage": 30.19
+        },
+        {
+          "label": "4",
+          "count": 575,
+          "percentage": 28.51
+        },
+        {
+          "label": "5",
+          "count": 466,
+          "percentage": 23.1
+        }
+      ]
+    },
+    "2024-4": {
+      "coverage": {
+        "first_order_date": "2024-10-01 00:32:52.210432",
+        "last_order_date": "2024-12-31 23:13:26.058033"
+      },
+      "kpis": {
+        "completed_orders": 514,
+        "completed_revenue": 321774.75,
+        "completed_aov": 626.02,
+        "customers_with_completed_orders": 504,
+        "repeat_customers": 10,
+        "repeat_customer_rate_pct": 1.98
+      },
+      "monthly": [
+        {
+          "order_month": "2024-10",
+          "completed_orders": 185,
+          "completed_revenue": 113797.42,
+          "completed_aov": 615.12
+        },
+        {
+          "order_month": "2024-11",
+          "completed_orders": 164,
+          "completed_revenue": 98829.66,
+          "completed_aov": 602.62
+        },
+        {
+          "order_month": "2024-12",
+          "completed_orders": 165,
+          "completed_revenue": 109147.67,
+          "completed_aov": 661.5
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 142,
+          "completed_orders": 96,
+          "completed_revenue": 124936.78
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 175,
+          "completed_orders": 108,
+          "completed_revenue": 75486.42
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 170,
+          "completed_orders": 110,
+          "completed_revenue": 31300.04
+        },
+        {
+          "category": "Sports",
+          "items_sold": 154,
+          "completed_orders": 107,
+          "completed_revenue": 27436.86
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 163,
+          "completed_orders": 103,
+          "completed_revenue": 19488.97
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 170,
+          "completed_orders": 109,
+          "completed_revenue": 14567.2
+        },
+        {
+          "category": "Toys",
+          "items_sold": 180,
+          "completed_orders": 116,
+          "completed_revenue": 10997.06
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 187,
+          "completed_orders": 107,
+          "completed_revenue": 9685.67
+        },
+        {
+          "category": "Books",
+          "items_sold": 138,
+          "completed_orders": 90,
+          "completed_revenue": 6158.45
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 115,
+          "completed_orders": 83,
+          "completed_revenue": 1717.3
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Nimbus",
+          "items_sold": 152,
+          "completed_orders": 95,
+          "completed_revenue": 43923.56
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 143,
+          "completed_orders": 92,
+          "completed_revenue": 30113.06
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 161,
+          "completed_orders": 104,
+          "completed_revenue": 29989.79
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 161,
+          "completed_orders": 98,
+          "completed_revenue": 29359.84
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 130,
+          "completed_orders": 80,
+          "completed_revenue": 27124.85
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 109,
+          "completed_orders": 75,
+          "completed_revenue": 26941.47
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 133,
+          "completed_orders": 87,
+          "completed_revenue": 26896.65
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 119,
+          "completed_orders": 83,
+          "completed_revenue": 26421.92
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 154,
+          "completed_orders": 105,
+          "completed_revenue": 24662.62
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 109,
+          "completed_orders": 72,
+          "completed_revenue": 20514.11
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 119,
+          "completed_orders": 82,
+          "completed_revenue": 18484.76
+        },
+        {
+          "brand": "Willow",
+          "items_sold": 104,
+          "completed_orders": 72,
+          "completed_revenue": 17342.12
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P000136",
+          "product_name": "Zenith Phone",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 3,
+          "completed_orders": 3,
+          "completed_revenue": 6509.94,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001183",
+          "product_name": "Nimbus Word",
+          "category": "Electronics",
+          "brand": "Nimbus",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 5505.96,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001606",
+          "product_name": "GreenLeaf Stage",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 5489.8,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P000358",
+          "product_name": "Solace Something",
+          "category": "Electronics",
+          "brand": "Solace",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 5008.35,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001630",
+          "product_name": "Nimbus From",
+          "category": "Electronics",
+          "brand": "Nimbus",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 4558.47,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001882",
+          "product_name": "Astra Tough",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 4389.78,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P000555",
+          "product_name": "Acme Of",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 4222.83,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P000354",
+          "product_name": "Pulse Letter",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 4162.17,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001672",
+          "product_name": "NeoTech Career",
+          "category": "Electronics",
+          "brand": "NeoTech",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 3772.56,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P000945",
+          "product_name": "Astra Later",
+          "category": "Automotive",
+          "brand": "Astra",
+          "items_sold": 5,
+          "completed_orders": 3,
+          "completed_revenue": 3435.05,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 514,
+          "percentage": 19.3
+        },
+        {
+          "label": "cancelled",
+          "count": 527,
+          "percentage": 19.79
+        },
+        {
+          "label": "returned",
+          "count": 549,
+          "percentage": 20.62
+        },
+        {
+          "label": "shipped",
+          "count": 526,
+          "percentage": 19.75
+        },
+        {
+          "label": "processing",
+          "count": 547,
+          "percentage": 20.54
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 494,
+          "percentage": 98.02
+        },
+        {
+          "label": "2",
+          "count": 10,
+          "percentage": 1.98
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 165,
+          "percentage": 32.74
+        },
+        {
+          "label": "Male",
+          "count": 160,
+          "percentage": 31.75
+        },
+        {
+          "label": "Other",
+          "count": 179,
+          "percentage": 35.52
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 83,
+          "percentage": 3.98
+        },
+        {
+          "label": "2",
+          "count": 283,
+          "percentage": 13.57
+        },
+        {
+          "label": "3",
+          "count": 589,
+          "percentage": 28.24
+        },
+        {
+          "label": "4",
+          "count": 658,
+          "percentage": 31.54
+        },
+        {
+          "label": "5",
+          "count": 473,
+          "percentage": 22.67
+        }
+      ]
+    },
+    "2025-all": {
+      "coverage": {
+        "first_order_date": "2025-01-01 02:17:59.029305",
+        "last_order_date": "2025-11-14 23:17:25.548939"
+      },
+      "kpis": {
+        "completed_orders": 1886,
+        "completed_revenue": 1152969.05,
+        "completed_aov": 611.33,
+        "customers_with_completed_orders": 1711,
+        "repeat_customers": 166,
+        "repeat_customer_rate_pct": 9.7
+      },
+      "monthly": [
+        {
+          "order_month": "2025-01",
+          "completed_orders": 167,
+          "completed_revenue": 84532.56,
+          "completed_aov": 506.18
+        },
+        {
+          "order_month": "2025-02",
+          "completed_orders": 170,
+          "completed_revenue": 109610.71,
+          "completed_aov": 644.77
+        },
+        {
+          "order_month": "2025-03",
+          "completed_orders": 165,
+          "completed_revenue": 81746.13,
+          "completed_aov": 495.43
+        },
+        {
+          "order_month": "2025-04",
+          "completed_orders": 181,
+          "completed_revenue": 114765.65,
+          "completed_aov": 634.06
+        },
+        {
+          "order_month": "2025-05",
+          "completed_orders": 187,
+          "completed_revenue": 126909.41,
+          "completed_aov": 678.66
+        },
+        {
+          "order_month": "2025-06",
+          "completed_orders": 195,
+          "completed_revenue": 116163.49,
+          "completed_aov": 595.71
+        },
+        {
+          "order_month": "2025-07",
+          "completed_orders": 172,
+          "completed_revenue": 111926.51,
+          "completed_aov": 650.74
+        },
+        {
+          "order_month": "2025-08",
+          "completed_orders": 192,
+          "completed_revenue": 109437.47,
+          "completed_aov": 569.99
+        },
+        {
+          "order_month": "2025-09",
+          "completed_orders": 181,
+          "completed_revenue": 115742.79,
+          "completed_aov": 639.46
+        },
+        {
+          "order_month": "2025-10",
+          "completed_orders": 185,
+          "completed_revenue": 111493.71,
+          "completed_aov": 602.67
+        },
+        {
+          "order_month": "2025-11",
+          "completed_orders": 91,
+          "completed_revenue": 70640.62,
+          "completed_aov": 776.27
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 553,
+          "completed_orders": 353,
+          "completed_revenue": 454507.23
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 600,
+          "completed_orders": 388,
+          "completed_revenue": 266412.82
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 582,
+          "completed_orders": 369,
+          "completed_revenue": 115262.61
+        },
+        {
+          "category": "Sports",
+          "items_sold": 514,
+          "completed_orders": 337,
+          "completed_revenue": 85718.91
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 636,
+          "completed_orders": 401,
+          "completed_revenue": 71183.25
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 588,
+          "completed_orders": 402,
+          "completed_revenue": 52570.95
+        },
+        {
+          "category": "Toys",
+          "items_sold": 615,
+          "completed_orders": 385,
+          "completed_revenue": 39275.78
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 644,
+          "completed_orders": 405,
+          "completed_revenue": 33537.14
+        },
+        {
+          "category": "Books",
+          "items_sold": 587,
+          "completed_orders": 379,
+          "completed_revenue": 26417.75
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 502,
+          "completed_orders": 336,
+          "completed_revenue": 8082.61
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Willow",
+          "items_sold": 473,
+          "completed_orders": 318,
+          "completed_revenue": 132734.06
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 482,
+          "completed_orders": 298,
+          "completed_revenue": 103850.26
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 466,
+          "completed_orders": 311,
+          "completed_revenue": 103505.16
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 617,
+          "completed_orders": 393,
+          "completed_revenue": 99751.86
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 551,
+          "completed_orders": 345,
+          "completed_revenue": 99057.51
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 477,
+          "completed_orders": 318,
+          "completed_revenue": 96584.36
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 509,
+          "completed_orders": 339,
+          "completed_revenue": 92936.75
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 468,
+          "completed_orders": 319,
+          "completed_revenue": 92149.53
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 452,
+          "completed_orders": 289,
+          "completed_revenue": 92031.79
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 389,
+          "completed_orders": 266,
+          "completed_revenue": 86311.35
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 528,
+          "completed_orders": 349,
+          "completed_revenue": 79736.34
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 409,
+          "completed_orders": 271,
+          "completed_revenue": 74320.08
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P001527",
+          "product_name": "Willow Result",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 12212.52,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001925",
+          "product_name": "Willow Hospital",
+          "category": "Automotive",
+          "brand": "Willow",
+          "items_sold": 8,
+          "completed_orders": 5,
+          "completed_revenue": 10726.08,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001641",
+          "product_name": "NeoTech Purpose",
+          "category": "Automotive",
+          "brand": "NeoTech",
+          "items_sold": 12,
+          "completed_orders": 7,
+          "completed_revenue": 8470.56,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P000298",
+          "product_name": "Zenith Deal",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 6,
+          "completed_orders": 2,
+          "completed_revenue": 7433.58,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001629",
+          "product_name": "NeoTech Hope",
+          "category": "Electronics",
+          "brand": "NeoTech",
+          "items_sold": 8,
+          "completed_orders": 3,
+          "completed_revenue": 7411.36,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001824",
+          "product_name": "Solace Foreign",
+          "category": "Electronics",
+          "brand": "Solace",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 7401.6,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001081",
+          "product_name": "Astra Act",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 7,
+          "completed_orders": 6,
+          "completed_revenue": 6897.45,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P001292",
+          "product_name": "Astra Measure",
+          "category": "Automotive",
+          "brand": "Astra",
+          "items_sold": 9,
+          "completed_orders": 5,
+          "completed_revenue": 6872.85,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P000820",
+          "product_name": "Orion Get",
+          "category": "Automotive",
+          "brand": "Orion",
+          "items_sold": 7,
+          "completed_orders": 4,
+          "completed_revenue": 6819.12,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001113",
+          "product_name": "Pulse Interesting",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 6652.48,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 1886,
+          "percentage": 20.43
+        },
+        {
+          "label": "cancelled",
+          "count": 1783,
+          "percentage": 19.32
+        },
+        {
+          "label": "returned",
+          "count": 1887,
+          "percentage": 20.44
+        },
+        {
+          "label": "shipped",
+          "count": 1881,
+          "percentage": 20.38
+        },
+        {
+          "label": "processing",
+          "count": 1794,
+          "percentage": 19.43
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 1545,
+          "percentage": 90.3
+        },
+        {
+          "label": "2",
+          "count": 157,
+          "percentage": 9.18
+        },
+        {
+          "label": "3",
+          "count": 9,
+          "percentage": 0.53
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 594,
+          "percentage": 34.72
+        },
+        {
+          "label": "Male",
+          "count": 544,
+          "percentage": 31.79
+        },
+        {
+          "label": "Other",
+          "count": 573,
+          "percentage": 33.49
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 272,
+          "percentage": 3.98
+        },
+        {
+          "label": "2",
+          "count": 935,
+          "percentage": 13.67
+        },
+        {
+          "label": "3",
+          "count": 1977,
+          "percentage": 28.9
+        },
+        {
+          "label": "4",
+          "count": 2112,
+          "percentage": 30.87
+        },
+        {
+          "label": "5",
+          "count": 1546,
+          "percentage": 22.6
+        }
+      ]
+    },
+    "2025-1": {
+      "coverage": {
+        "first_order_date": "2025-01-01 02:17:59.029305",
+        "last_order_date": "2025-03-31 21:25:36.620096"
+      },
+      "kpis": {
+        "completed_orders": 502,
+        "completed_revenue": 275889.4,
+        "completed_aov": 549.58,
+        "customers_with_completed_orders": 489,
+        "repeat_customers": 13,
+        "repeat_customer_rate_pct": 2.66
+      },
+      "monthly": [
+        {
+          "order_month": "2025-01",
+          "completed_orders": 167,
+          "completed_revenue": 84532.56,
+          "completed_aov": 506.18
+        },
+        {
+          "order_month": "2025-02",
+          "completed_orders": 170,
+          "completed_revenue": 109610.71,
+          "completed_aov": 644.77
+        },
+        {
+          "order_month": "2025-03",
+          "completed_orders": 165,
+          "completed_revenue": 81746.13,
+          "completed_aov": 495.43
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 129,
+          "completed_orders": 84,
+          "completed_revenue": 100346.05
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 141,
+          "completed_orders": 91,
+          "completed_revenue": 60392.21
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 141,
+          "completed_orders": 92,
+          "completed_revenue": 28290.25
+        },
+        {
+          "category": "Sports",
+          "items_sold": 146,
+          "completed_orders": 97,
+          "completed_revenue": 23533.75
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 180,
+          "completed_orders": 109,
+          "completed_revenue": 20617.12
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 145,
+          "completed_orders": 104,
+          "completed_revenue": 13007.54
+        },
+        {
+          "category": "Toys",
+          "items_sold": 182,
+          "completed_orders": 116,
+          "completed_revenue": 11535.14
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 173,
+          "completed_orders": 108,
+          "completed_revenue": 9005.1
+        },
+        {
+          "category": "Books",
+          "items_sold": 147,
+          "completed_orders": 96,
+          "completed_revenue": 6960.34
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 134,
+          "completed_orders": 93,
+          "completed_revenue": 2201.9
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Willow",
+          "items_sold": 143,
+          "completed_orders": 90,
+          "completed_revenue": 40728.18
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 128,
+          "completed_orders": 85,
+          "completed_revenue": 30231.86
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 153,
+          "completed_orders": 97,
+          "completed_revenue": 28262.13
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 111,
+          "completed_orders": 68,
+          "completed_revenue": 24571.48
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 114,
+          "completed_orders": 78,
+          "completed_revenue": 22674.4
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 133,
+          "completed_orders": 91,
+          "completed_revenue": 22375.84
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 120,
+          "completed_orders": 79,
+          "completed_revenue": 19117.79
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 141,
+          "completed_orders": 92,
+          "completed_revenue": 18513.59
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 130,
+          "completed_orders": 87,
+          "completed_revenue": 17845.64
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 143,
+          "completed_orders": 87,
+          "completed_revenue": 17736.45
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 97,
+          "completed_orders": 71,
+          "completed_revenue": 17381.47
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 105,
+          "completed_orders": 77,
+          "completed_revenue": 16450.57
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P001925",
+          "product_name": "Willow Hospital",
+          "category": "Automotive",
+          "brand": "Willow",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 5363.04,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P000555",
+          "product_name": "Acme Of",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 4222.83,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001003",
+          "product_name": "Willow Peace",
+          "category": "Automotive",
+          "brand": "Willow",
+          "items_sold": 6,
+          "completed_orders": 2,
+          "completed_revenue": 4061.7,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P001953",
+          "product_name": "Orion International",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3822,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001742",
+          "product_name": "GreenLeaf End",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3257.2,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001611",
+          "product_name": "Willow Benefit",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3086.64,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P000303",
+          "product_name": "Willow Note",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 2,
+          "completed_orders": 1,
+          "completed_revenue": 3071.1,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P001493",
+          "product_name": "Solace Lead",
+          "category": "Electronics",
+          "brand": "Solace",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 2977.68,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001960",
+          "product_name": "Orion Owner",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 4,
+          "completed_orders": 3,
+          "completed_revenue": 2952.08,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P000820",
+          "product_name": "Orion Get",
+          "category": "Automotive",
+          "brand": "Orion",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 2922.48,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 502,
+          "percentage": 19.34
+        },
+        {
+          "label": "cancelled",
+          "count": 457,
+          "percentage": 17.6
+        },
+        {
+          "label": "returned",
+          "count": 563,
+          "percentage": 21.69
+        },
+        {
+          "label": "shipped",
+          "count": 535,
+          "percentage": 20.61
+        },
+        {
+          "label": "processing",
+          "count": 539,
+          "percentage": 20.76
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 476,
+          "percentage": 97.34
+        },
+        {
+          "label": "2",
+          "count": 13,
+          "percentage": 2.66
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 167,
+          "percentage": 34.15
+        },
+        {
+          "label": "Male",
+          "count": 154,
+          "percentage": 31.49
+        },
+        {
+          "label": "Other",
+          "count": 168,
+          "percentage": 34.36
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 78,
+          "percentage": 4
+        },
+        {
+          "label": "2",
+          "count": 266,
+          "percentage": 13.66
+        },
+        {
+          "label": "3",
+          "count": 556,
+          "percentage": 28.54
+        },
+        {
+          "label": "4",
+          "count": 593,
+          "percentage": 30.44
+        },
+        {
+          "label": "5",
+          "count": 455,
+          "percentage": 23.36
+        }
+      ]
+    },
+    "2025-2": {
+      "coverage": {
+        "first_order_date": "2025-04-01 01:02:07.286608",
+        "last_order_date": "2025-06-30 21:32:26.182212"
+      },
+      "kpis": {
+        "completed_orders": 563,
+        "completed_revenue": 357838.55,
+        "completed_aov": 635.59,
+        "customers_with_completed_orders": 547,
+        "repeat_customers": 16,
+        "repeat_customer_rate_pct": 2.93
+      },
+      "monthly": [
+        {
+          "order_month": "2025-04",
+          "completed_orders": 181,
+          "completed_revenue": 114765.65,
+          "completed_aov": 634.06
+        },
+        {
+          "order_month": "2025-05",
+          "completed_orders": 187,
+          "completed_revenue": 126909.41,
+          "completed_aov": 678.66
+        },
+        {
+          "order_month": "2025-06",
+          "completed_orders": 195,
+          "completed_revenue": 116163.49,
+          "completed_aov": 595.71
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 185,
+          "completed_orders": 111,
+          "completed_revenue": 163514.23
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 165,
+          "completed_orders": 108,
+          "completed_revenue": 67431.42
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 175,
+          "completed_orders": 111,
+          "completed_revenue": 32977.04
+        },
+        {
+          "category": "Sports",
+          "items_sold": 155,
+          "completed_orders": 95,
+          "completed_revenue": 25825.53
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 184,
+          "completed_orders": 108,
+          "completed_revenue": 21243.02
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 152,
+          "completed_orders": 114,
+          "completed_revenue": 13363.13
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 220,
+          "completed_orders": 137,
+          "completed_revenue": 11814.44
+        },
+        {
+          "category": "Toys",
+          "items_sold": 173,
+          "completed_orders": 114,
+          "completed_revenue": 10465.35
+        },
+        {
+          "category": "Books",
+          "items_sold": 186,
+          "completed_orders": 115,
+          "completed_revenue": 8226.69
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 169,
+          "completed_orders": 105,
+          "completed_revenue": 2977.7
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Willow",
+          "items_sold": 137,
+          "completed_orders": 94,
+          "completed_revenue": 40924.85
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 201,
+          "completed_orders": 124,
+          "completed_revenue": 35470.82
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 156,
+          "completed_orders": 104,
+          "completed_revenue": 33670.65
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 138,
+          "completed_orders": 98,
+          "completed_revenue": 33119.85
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 164,
+          "completed_orders": 103,
+          "completed_revenue": 31806.06
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 126,
+          "completed_orders": 83,
+          "completed_revenue": 30252.53
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 133,
+          "completed_orders": 87,
+          "completed_revenue": 30001.26
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 156,
+          "completed_orders": 97,
+          "completed_revenue": 27442.9
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 161,
+          "completed_orders": 105,
+          "completed_revenue": 26087.33
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 144,
+          "completed_orders": 90,
+          "completed_revenue": 25795.57
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 135,
+          "completed_orders": 94,
+          "completed_revenue": 24686.09
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 113,
+          "completed_orders": 76,
+          "completed_revenue": 18580.64
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P000298",
+          "product_name": "Zenith Deal",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 6,
+          "completed_orders": 2,
+          "completed_revenue": 7433.58,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001527",
+          "product_name": "Willow Result",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 6106.26,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P000966",
+          "product_name": "Harbor Buy",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 5,
+          "completed_orders": 2,
+          "completed_revenue": 5757.35,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P001024",
+          "product_name": "Astra Pull",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 2,
+          "completed_orders": 2,
+          "completed_revenue": 4676.26,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P001992",
+          "product_name": "Astra Particularly",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 4664.96,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001013",
+          "product_name": "Willow Spring",
+          "category": "Automotive",
+          "brand": "Willow",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 4188.72,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P000264",
+          "product_name": "Acme Account",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 4025.88,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P001892",
+          "product_name": "Willow Need",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 3863.85,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001183",
+          "product_name": "Nimbus Word",
+          "category": "Electronics",
+          "brand": "Nimbus",
+          "items_sold": 2,
+          "completed_orders": 2,
+          "completed_revenue": 3670.64,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001113",
+          "product_name": "Pulse Interesting",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 2,
+          "completed_orders": 1,
+          "completed_revenue": 3326.24,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 563,
+          "percentage": 21.37
+        },
+        {
+          "label": "cancelled",
+          "count": 523,
+          "percentage": 19.86
+        },
+        {
+          "label": "returned",
+          "count": 523,
+          "percentage": 19.86
+        },
+        {
+          "label": "shipped",
+          "count": 523,
+          "percentage": 19.86
+        },
+        {
+          "label": "processing",
+          "count": 502,
+          "percentage": 19.06
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 531,
+          "percentage": 97.07
+        },
+        {
+          "label": "2",
+          "count": 16,
+          "percentage": 2.93
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 182,
+          "percentage": 33.27
+        },
+        {
+          "label": "Male",
+          "count": 170,
+          "percentage": 31.08
+        },
+        {
+          "label": "Other",
+          "count": 195,
+          "percentage": 35.65
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 67,
+          "percentage": 3.39
+        },
+        {
+          "label": "2",
+          "count": 250,
+          "percentage": 12.66
+        },
+        {
+          "label": "3",
+          "count": 580,
+          "percentage": 29.37
+        },
+        {
+          "label": "4",
+          "count": 646,
+          "percentage": 32.71
+        },
+        {
+          "label": "5",
+          "count": 432,
+          "percentage": 21.87
+        }
+      ]
+    },
+    "2025-3": {
+      "coverage": {
+        "first_order_date": "2025-07-01 00:23:04.734286",
+        "last_order_date": "2025-09-30 23:29:37.619568"
+      },
+      "kpis": {
+        "completed_orders": 545,
+        "completed_revenue": 337106.77,
+        "completed_aov": 618.54,
+        "customers_with_completed_orders": 532,
+        "repeat_customers": 13,
+        "repeat_customer_rate_pct": 2.44
+      },
+      "monthly": [
+        {
+          "order_month": "2025-07",
+          "completed_orders": 172,
+          "completed_revenue": 111926.51,
+          "completed_aov": 650.74
+        },
+        {
+          "order_month": "2025-08",
+          "completed_orders": 192,
+          "completed_revenue": 109437.47,
+          "completed_aov": 569.99
+        },
+        {
+          "order_month": "2025-09",
+          "completed_orders": 181,
+          "completed_revenue": 115742.79,
+          "completed_aov": 639.46
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 165,
+          "completed_orders": 115,
+          "completed_revenue": 121126.03
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 188,
+          "completed_orders": 120,
+          "completed_revenue": 91701.81
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 176,
+          "completed_orders": 112,
+          "completed_revenue": 34966.11
+        },
+        {
+          "category": "Sports",
+          "items_sold": 132,
+          "completed_orders": 91,
+          "completed_revenue": 21553.73
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 180,
+          "completed_orders": 123,
+          "completed_revenue": 20000.18
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 207,
+          "completed_orders": 129,
+          "completed_revenue": 18786.21
+        },
+        {
+          "category": "Toys",
+          "items_sold": 173,
+          "completed_orders": 102,
+          "completed_revenue": 11954.51
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 166,
+          "completed_orders": 102,
+          "completed_revenue": 8401.69
+        },
+        {
+          "category": "Books",
+          "items_sold": 152,
+          "completed_orders": 102,
+          "completed_revenue": 6604.99
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 136,
+          "completed_orders": 93,
+          "completed_revenue": 2011.51
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Nimbus",
+          "items_sold": 169,
+          "completed_orders": 107,
+          "completed_revenue": 36098.54
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 176,
+          "completed_orders": 111,
+          "completed_revenue": 34489.98
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 161,
+          "completed_orders": 102,
+          "completed_revenue": 33539.7
+        },
+        {
+          "brand": "Willow",
+          "items_sold": 133,
+          "completed_orders": 95,
+          "completed_revenue": 31700.58
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 123,
+          "completed_orders": 79,
+          "completed_revenue": 28466.68
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 108,
+          "completed_orders": 73,
+          "completed_revenue": 27861.26
+        },
+        {
+          "brand": "Orion",
+          "items_sold": 123,
+          "completed_orders": 74,
+          "completed_revenue": 26606.64
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 134,
+          "completed_orders": 93,
+          "completed_revenue": 25997.37
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 172,
+          "completed_orders": 115,
+          "completed_revenue": 25867.14
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 115,
+          "completed_orders": 71,
+          "completed_revenue": 23502.93
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 109,
+          "completed_orders": 78,
+          "completed_revenue": 22343.55
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 152,
+          "completed_orders": 103,
+          "completed_revenue": 20632.4
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P000954",
+          "product_name": "Harbor Cost",
+          "category": "Automotive",
+          "brand": "Harbor",
+          "items_sold": 8,
+          "completed_orders": 4,
+          "completed_revenue": 5292.16,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001987",
+          "product_name": "Astra Sea",
+          "category": "Automotive",
+          "brand": "Astra",
+          "items_sold": 6,
+          "completed_orders": 5,
+          "completed_revenue": 5226.18,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001125",
+          "product_name": "Harbor Against",
+          "category": "Electronics",
+          "brand": "Harbor",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3544.92,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P001840",
+          "product_name": "Orion Capital",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 3404.34,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P000977",
+          "product_name": "Pulse Rise",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3393.9,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001113",
+          "product_name": "Pulse Interesting",
+          "category": "Electronics",
+          "brand": "Pulse",
+          "items_sold": 2,
+          "completed_orders": 1,
+          "completed_revenue": 3326.24,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P001742",
+          "product_name": "GreenLeaf End",
+          "category": "Electronics",
+          "brand": "GreenLeaf",
+          "items_sold": 4,
+          "completed_orders": 3,
+          "completed_revenue": 3257.2,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P000025",
+          "product_name": "Zenith About",
+          "category": "Automotive",
+          "brand": "Zenith",
+          "items_sold": 5,
+          "completed_orders": 3,
+          "completed_revenue": 3159.2,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001630",
+          "product_name": "Nimbus From",
+          "category": "Electronics",
+          "brand": "Nimbus",
+          "items_sold": 2,
+          "completed_orders": 2,
+          "completed_revenue": 3038.98,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001341",
+          "product_name": "Harbor Visit",
+          "category": "Automotive",
+          "brand": "Harbor",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 2967.68,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 545,
+          "percentage": 20.04
+        },
+        {
+          "label": "cancelled",
+          "count": 548,
+          "percentage": 20.15
+        },
+        {
+          "label": "returned",
+          "count": 571,
+          "percentage": 20.99
+        },
+        {
+          "label": "shipped",
+          "count": 556,
+          "percentage": 20.44
+        },
+        {
+          "label": "processing",
+          "count": 500,
+          "percentage": 18.38
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 519,
+          "percentage": 97.56
+        },
+        {
+          "label": "2",
+          "count": 13,
+          "percentage": 2.44
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 197,
+          "percentage": 37.03
+        },
+        {
+          "label": "Male",
+          "count": 156,
+          "percentage": 29.32
+        },
+        {
+          "label": "Other",
+          "count": 179,
+          "percentage": 33.65
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 81,
+          "percentage": 4.14
+        },
+        {
+          "label": "2",
+          "count": 270,
+          "percentage": 13.81
+        },
+        {
+          "label": "3",
+          "count": 561,
+          "percentage": 28.7
+        },
+        {
+          "label": "4",
+          "count": 595,
+          "percentage": 30.43
+        },
+        {
+          "label": "5",
+          "count": 448,
+          "percentage": 22.92
+        }
+      ]
+    },
+    "2025-4": {
+      "coverage": {
+        "first_order_date": "2025-10-01 00:18:08.747929",
+        "last_order_date": "2025-11-14 23:17:25.548939"
+      },
+      "kpis": {
+        "completed_orders": 276,
+        "completed_revenue": 182134.33,
+        "completed_aov": 659.91,
+        "customers_with_completed_orders": 275,
+        "repeat_customers": 1,
+        "repeat_customer_rate_pct": 0.36
+      },
+      "monthly": [
+        {
+          "order_month": "2025-10",
+          "completed_orders": 185,
+          "completed_revenue": 111493.71,
+          "completed_aov": 602.67
+        },
+        {
+          "order_month": "2025-11",
+          "completed_orders": 91,
+          "completed_revenue": 70640.62,
+          "completed_aov": 776.27
+        }
+      ],
+      "categories": [
+        {
+          "category": "Electronics",
+          "items_sold": 74,
+          "completed_orders": 43,
+          "completed_revenue": 69520.92
+        },
+        {
+          "category": "Automotive",
+          "items_sold": 106,
+          "completed_orders": 69,
+          "completed_revenue": 46887.38
+        },
+        {
+          "category": "Home & Kitchen",
+          "items_sold": 90,
+          "completed_orders": 54,
+          "completed_revenue": 19029.21
+        },
+        {
+          "category": "Sports",
+          "items_sold": 81,
+          "completed_orders": 54,
+          "completed_revenue": 14805.9
+        },
+        {
+          "category": "Clothing",
+          "items_sold": 92,
+          "completed_orders": 61,
+          "completed_revenue": 9322.93
+        },
+        {
+          "category": "Beauty",
+          "items_sold": 84,
+          "completed_orders": 55,
+          "completed_revenue": 7414.07
+        },
+        {
+          "category": "Toys",
+          "items_sold": 87,
+          "completed_orders": 53,
+          "completed_revenue": 5320.78
+        },
+        {
+          "category": "Books",
+          "items_sold": 102,
+          "completed_orders": 66,
+          "completed_revenue": 4625.73
+        },
+        {
+          "category": "Pet Supplies",
+          "items_sold": 85,
+          "completed_orders": 58,
+          "completed_revenue": 4315.91
+        },
+        {
+          "category": "Groceries",
+          "items_sold": 63,
+          "completed_orders": 45,
+          "completed_revenue": 891.5
+        }
+      ],
+      "brands": [
+        {
+          "brand": "Orion",
+          "items_sold": 84,
+          "completed_orders": 53,
+          "completed_revenue": 20866.08
+        },
+        {
+          "brand": "Zenith",
+          "items_sold": 101,
+          "completed_orders": 67,
+          "completed_revenue": 20677.45
+        },
+        {
+          "brand": "Solace",
+          "items_sold": 79,
+          "completed_orders": 50,
+          "completed_revenue": 20058.89
+        },
+        {
+          "brand": "Willow",
+          "items_sold": 60,
+          "completed_orders": 39,
+          "completed_revenue": 19380.45
+        },
+        {
+          "brand": "Acme",
+          "items_sold": 73,
+          "completed_orders": 44,
+          "completed_revenue": 17259.1
+        },
+        {
+          "brand": "Astra",
+          "items_sold": 66,
+          "completed_orders": 41,
+          "completed_revenue": 15186.67
+        },
+        {
+          "brand": "NeoTech",
+          "items_sold": 74,
+          "completed_orders": 49,
+          "completed_revenue": 14503.02
+        },
+        {
+          "brand": "Nimbus",
+          "items_sold": 70,
+          "completed_orders": 47,
+          "completed_revenue": 14033.99
+        },
+        {
+          "brand": "Harbor",
+          "items_sold": 80,
+          "completed_orders": 52,
+          "completed_revenue": 12335.12
+        },
+        {
+          "brand": "Pulse",
+          "items_sold": 58,
+          "completed_orders": 39,
+          "completed_revenue": 10816.09
+        },
+        {
+          "brand": "GreenLeaf",
+          "items_sold": 66,
+          "completed_orders": 40,
+          "completed_revenue": 8862.5
+        },
+        {
+          "brand": "Everest",
+          "items_sold": 53,
+          "completed_orders": 37,
+          "completed_revenue": 8154.97
+        }
+      ],
+      "topProducts": [
+        {
+          "product_id": "P001527",
+          "product_name": "Willow Result",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 3,
+          "completed_orders": 2,
+          "completed_revenue": 6106.26,
+          "revenue_rank": 1
+        },
+        {
+          "product_id": "P001049",
+          "product_name": "Zenith Their",
+          "category": "Electronics",
+          "brand": "Zenith",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 4799.94,
+          "revenue_rank": 2
+        },
+        {
+          "product_id": "P001641",
+          "product_name": "NeoTech Purpose",
+          "category": "Automotive",
+          "brand": "NeoTech",
+          "items_sold": 6,
+          "completed_orders": 3,
+          "completed_revenue": 4235.28,
+          "revenue_rank": 3
+        },
+        {
+          "product_id": "P000820",
+          "product_name": "Orion Get",
+          "category": "Automotive",
+          "brand": "Orion",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3896.64,
+          "revenue_rank": 4
+        },
+        {
+          "product_id": "P000055",
+          "product_name": "Astra Our",
+          "category": "Electronics",
+          "brand": "Astra",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3798.92,
+          "revenue_rank": 5
+        },
+        {
+          "product_id": "P001824",
+          "product_name": "Solace Foreign",
+          "category": "Electronics",
+          "brand": "Solace",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3700.8,
+          "revenue_rank": 6
+        },
+        {
+          "product_id": "P000681",
+          "product_name": "Acme Keep",
+          "category": "Electronics",
+          "brand": "Acme",
+          "items_sold": 2,
+          "completed_orders": 1,
+          "completed_revenue": 3416.4,
+          "revenue_rank": 7
+        },
+        {
+          "product_id": "P001292",
+          "product_name": "Astra Measure",
+          "category": "Automotive",
+          "brand": "Astra",
+          "items_sold": 4,
+          "completed_orders": 2,
+          "completed_revenue": 3054.6,
+          "revenue_rank": 8
+        },
+        {
+          "product_id": "P001121",
+          "product_name": "Orion Occur",
+          "category": "Electronics",
+          "brand": "Orion",
+          "items_sold": 3,
+          "completed_orders": 1,
+          "completed_revenue": 3010.95,
+          "revenue_rank": 9
+        },
+        {
+          "product_id": "P001261",
+          "product_name": "Willow World",
+          "category": "Electronics",
+          "brand": "Willow",
+          "items_sold": 2,
+          "completed_orders": 1,
+          "completed_revenue": 2823.62,
+          "revenue_rank": 10
+        }
+      ],
+      "statusDistribution": [
+        {
+          "label": "completed",
+          "count": 276,
+          "percentage": 21.55
+        },
+        {
+          "label": "cancelled",
+          "count": 255,
+          "percentage": 19.91
+        },
+        {
+          "label": "returned",
+          "count": 230,
+          "percentage": 17.95
+        },
+        {
+          "label": "shipped",
+          "count": 267,
+          "percentage": 20.84
+        },
+        {
+          "label": "processing",
+          "count": 253,
+          "percentage": 19.75
+        }
+      ],
+      "customerFrequency": [
+        {
+          "label": "1",
+          "count": 274,
+          "percentage": 99.64
+        },
+        {
+          "label": "2",
+          "count": 1,
+          "percentage": 0.36
+        },
+        {
+          "label": "3",
+          "count": 0,
+          "percentage": 0
+        },
+        {
+          "label": "4+",
+          "count": 0,
+          "percentage": 0
+        }
+      ],
+      "customerGender": [
+        {
+          "label": "Female",
+          "count": 90,
+          "percentage": 32.73
+        },
+        {
+          "label": "Male",
+          "count": 94,
+          "percentage": 34.18
+        },
+        {
+          "label": "Other",
+          "count": 91,
+          "percentage": 33.09
+        }
+      ],
+      "ratingDistribution": [
+        {
+          "label": "1",
+          "count": 46,
+          "percentage": 4.77
+        },
+        {
+          "label": "2",
+          "count": 149,
+          "percentage": 15.46
+        },
+        {
+          "label": "3",
+          "count": 280,
+          "percentage": 29.05
+        },
+        {
+          "label": "4",
+          "count": 278,
+          "percentage": 28.84
+        },
+        {
+          "label": "5",
+          "count": 211,
+          "percentage": 21.89
+        }
+      ]
+    }
+  }
+}
