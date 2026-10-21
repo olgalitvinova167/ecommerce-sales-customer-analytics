@@ -123,7 +123,6 @@ See the [Data Quality Report](data/data_quality_report.md) and [Data Dictionary]
 | [DAX documentation](docs/dax_measures.md) | 22 measures, formulas and calculation notes |
 | [Data Quality Report](data/data_quality_report.md) | Data quality checks and cleaning decisions |
 | [Data Dictionary](data/data_dictionary.md) | Table and field definitions |
-| [Web dashboard documentation](dashboard/README.md) | Supplementary dashboard information |
 
 Python dependencies are listed in [`requirements.txt`](requirements.txt).
 
